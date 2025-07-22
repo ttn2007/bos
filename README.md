@@ -1,0 +1,2 @@
+# bos
+bash operation script
