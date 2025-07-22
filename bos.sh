@@ -1,7 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 while true; do
-  clear
   echo -e "\e[36m==== 💻 File Operations Menu ====\e[0m"
   echo "1) 📄 Copy files and folders"
   echo "2) 🗂️ Move files and folders"
