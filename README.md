@@ -19,15 +19,15 @@
 ## 📦 Installation
 
 1️⃣ Clone this repository:
-git clone https://github.com/your-username/bos.git
+git clone https://github.com/ttn2007/bos
 
 2️⃣ Make the script executable:
 
-chmod +x bos/my-ops.sh
+chmod +x bos.sh
 
 3️⃣ (Optional) Add an alias to .bashrc or .zshrc for quick access:
 
-echo 'alias bos="~/bos/my-ops.sh"' >> ~/.bashrc
+echo 'alias bos="~/bos.sh"' >> ~/.bashrc
 source ~/.bashrc
 
 Now you can just type:
@@ -41,7 +41,7 @@ bos
 
 Run the script:
 
-~/bos/my-ops.sh
+~/bos.sh
 
 You’ll see a menu like this:
 
