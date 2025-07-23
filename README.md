@@ -23,11 +23,11 @@ git clone https://github.com/ttn2007/bos
 
 2️⃣ Make the script executable:
 
-chmod +x bos.sh
+chmod +x ~/bos/bos.sh
 
 3️⃣ (Optional) Add an alias to .bashrc or .zshrc for quick access:
 
-echo 'alias bos="~/bos.sh"' >> ~/.bashrc
+echo 'alias bos="bash ~/bos/bos.sh"' >> ~/.bashrc
 source ~/.bashrc
 
 Now you can just type:
@@ -41,7 +41,7 @@ bos
 
 Run the script:
 
-~/bos.sh
+~/bos/bos.sh
 
 You’ll see a menu like this:
 
