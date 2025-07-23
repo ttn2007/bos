@@ -19,6 +19,7 @@
 ## 📦 Installation
 
 1️⃣ Clone this repository:
+
 ```bash git clone https://github.com/ttn2007/bos ```
 
 
@@ -29,9 +30,9 @@
 
 3️⃣ (Optional) Add an alias to .bashrc or .zshrc for quick access:
 
-```bash echo 'alias bos="bash ~/bos/bos.sh"' >> ~/.bashrc
+```bash echo 'alias bos="bash ~/bos/bos.sh"' >> ~/.bashrc ```
 
-source ~/.bashrc ```
+```bash source ~/.bashrc ```
 
 
 
