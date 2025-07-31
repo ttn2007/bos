@@ -47,7 +47,7 @@ Now you can just type:
 
 Run the script:
 
-``` ~/bos/bos.sh ```
+``` bash ~/bos/bos.sh ```
 
 You’ll see a menu like this:
 
