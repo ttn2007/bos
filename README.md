@@ -74,6 +74,4 @@ Just enter the number and follow the prompts.
 
 ---
 
-🙌 Author
-
-Made with ❤️ by ttn2007
+Made with by ttn2007
